@@ -10,7 +10,7 @@ Para realizar algunos proyectos como el de SecurityNet aprendí por mi cuenta Re
 
 ## **Proyectos en los que estuve trabajando hasta la fecha** 💻
 
-- PortFolio ([ver más](https://github.com/SteAymar/portfolio))
+- Portfolio ([ver más](https://github.com/SteAymar/portfolio))
 - SecurityNet ([ver más](https://github.com/SteAymar/SecurityNet-Frontend))
 - FreezEats ([ver más](https://github.com/SteAymar/checkpoint-freezeats))
 - MovieFlix ([ver más](https://github.com/SteAymar/Movieflix))
