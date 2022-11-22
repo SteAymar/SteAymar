@@ -1,4 +1,4 @@
-![saludo](https://i.ibb.co/bWqsypR/Captura-desde-2022-10-26-19-38-59.png)
+![saludo](https://static.wixstatic.com/media/44be5e_fcf03a17b53341e2a6f89dbc1a30927f~mv2.gif)
 
 # Hola a todos! 👋
 
