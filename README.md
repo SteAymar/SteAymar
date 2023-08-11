@@ -2,11 +2,8 @@
 
 # Hola a todos! 👋
 
-Soy Stéfano Aymar, Desarrollador web Full-Stack, reaclicé un Coding Bootcamp en Plataforma5 y lo finalicé con éxito en Septiembre del 2022.
-Allí aprendí algunas de las tecnologías más demandas del mercado como: JavaScript, React, Redux, Node.js, Express.js, PostgreSQL, JWT, HTML, CSS y Sass.
-Y metodologías de trabajo como SCRUM y Pair Programming.
-
-Para realizar algunos proyectos como el de SecurityNet aprendí por mi cuenta React Native, React Hook Form, MaterialUI, Leaftlet y Nominatim.
+Soy Stéfano Aymar, Desarrollador mobile y web Full-Stack, trabajo con React, React Native, Next.js, Redux, Node.js, Express.js, PostgreSQL, Sequelize, Nest, TypeORM, JWT, HTML, CSS y Sass.
+Y metodologías de trabajo como SCRUM y KANBAN.
 
 ## **Proyectos en los que estuve trabajando hasta la fecha** 💻
 
